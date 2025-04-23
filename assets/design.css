@@ -1,0 +1,26 @@
+/*GLOBAL*/
+body {
+    align-items: center;
+    background-color: gray;
+    width: 99%;
+}
+/*START OF INDEX*/
+.header {
+    text-align: center;
+    position: relative;
+    top: 30vh;
+    font-size: 50px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    color: rgb(255, 203, 46);
+}
+.subheader {
+    text-align: center;
+    position: relative;
+    top: 25vh;
+    font-size: 15px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    color: aliceblue;
+}
+#loadingscr {
+    display: contents;
+}
