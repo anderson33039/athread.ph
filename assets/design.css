@@ -51,6 +51,14 @@ text-align: center;
 padding: 20px;
 }
 .content {
-    max-width: 500px;
+    border: 2px solid black;
+    border-radius: 20px;
+    width: 100%;
     padding: 10px;
+}
+.content img {
+    border: 2px solid black;
+}
+.content:hover {
+    background-color: rgb(177, 177, 177);
 }
