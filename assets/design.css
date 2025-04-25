@@ -62,3 +62,15 @@ padding: 20px;
 .content:hover {
     background-color: rgb(177, 177, 177);
 }
+.thread_library {
+    text-align: center;
+    padding: 20px;
+}
+.thread_content {
+    border-radius: 20px;
+    border: 2px solid black;
+    width: 50%;
+    height: 200px;
+    font-size: larger;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
