@@ -12,5 +12,5 @@ function thread(num) {
     window.location.href = thread_code[num];
 }
 function back() {
-    window.location.href = "../../../index.html";
+    window.location.href = "../../index.html";
 };
